@@ -1,0 +1,178 @@
+define everything in single image
+remove span tag 
+reduce testcase for style container_style 
+check_for_valid_scores => add include
+
+
+mention =>mediaquery max and min width
+
+
+
+zoom
+last_name is given but then it shows its required..How many letters it is expecting?
+Give wrong email and show the validation
+In login password regex validation screenshot is missing
+while clicking on create vehicle that page has create new product please change it 
+update page also it is given as update product
+
+
+
+propsell
+swap_hub
+
+
+
+EY
+
+EY_PHP_Assessements
+EY_PERL_Assessements
+EY_GO_Assessements
+
+
+CUST_PHP_COD_STRINGS
+CUST_PHP_COD_ARRAYS
+CUST_PHP_COD_BASICS AND DATA TYPES
+CUST_PHP_COD_CLASSES
+
+EY_PERL_MCQ
+EY_PHP_MCQ
+EY_GO_MCQ
+
+
+
+
+
+
+
+JAVASCRIPT , NODE AND REACT INTRODUCTION
+empty workspace
+
+COMPONENTS AND PROPS & STATES
+
+IRC_React_Day 2_CE_Hello World (Function)
+IRC_React_Day 2_CE_Hello World (Class)
+IRC_React_Day 2_PAH_Greeting
+IRC_React_Day 3_CE_Counter App
+IRC_React_Day 3_CE_Browser Route
+IRC_React_Day 3_PAH_DisplayData
+IRC_React_Day 3_PAH_Login Form
+IRC_React_Day 3_PAH_TodoList
+
+
+STYLES, MATERIAL UI || ERROR HANDLING & LIFECYCLE METHODS
+
+IRC_React_Day 4_CE_Inline Styling
+IRC_React_Day 4_PAH_Custom Card
+IRC_React_Day 5_CE_Error Boundary
+IRC_React_Day 5_PAH_LifeCycle Methods
+
+
+Context API, REF, HOC || Conditional Rendering and Axios
+
+IRC_React_Day 6_CE_LoginForm
+IRC_React_Day 6_PAH_HOC
+IRC_React_Day 7_CE_UserList API
+IRC_React_Day 7_PAH_UserProfile API
+
+Hooks & Redux
+
+IRC_React_Day 8_CE_Counter App Using Redux
+IRC_React_Day 8_PAH_Dynamic Theme Using Redux
+
+
+Routing  
+Form Creation
+Form Submission, API, JEST
+
+
+
+
+
+
+
+
+
+
+
+
+day 68
+
+lab =>  React_Day68_LE_Hello_World_Functional
+	React_Day68_LE_Counter_App
+
+self =>	React_Day68_SLE_Greeting
+
+cc =>	React_Day68_CC_TodoList
+
+
+day 70
+
+lab =>	React_Day70_LE_Inline_Styling
+	React_Day70_LE_Error_Boundary
+
+self =>	React_Day70_SLE_LifeCycle_Methods
+
+cc =>	React_Day70_CC_CustomCard
+
+
+day 71
+
+lab =>	React_Day71_LE_Login_Form
+	React_Day_71_LE_UserList_API
+
+self =>	React_Day71_SLE_HOC
+
+cc =>	React_Day71_CC_UserProfile_API
+
+
+day 72
+
+lab =>	React_Day72_LE_Counter_App_Using_Redux
+	React_Day72_LE_Blog_Application
+
+	done solution for challenge yourself (topic - travel)
+
+self =>	React_Day72_SLE_Dynamic_Theme_Using_Redux
+
+cc => 	React_Day72_CC_Movie_Actor_Finder
+
+
+day 73
+
+lab =>	React_Day73_LE_Blood_Donation_Registration
+	React_Day73_LE_Contact_Form
+
+self => React_Day73_SLE_Hospital_Appointment
+
+cc =>	React_Day73_CC_Course_Management
+	
+
+
+
+
+
+
+
+React_Projects_VScode
+
+
+Project Title: simple Blog Application => day 72
+
+Project Title: Building a Movie Actor Finder App => /day 72
+
+
+Project Title: Building a Blood Donation Registration App => day 73
+Project Title: Building a Contact Form => day 73
+Project Title: Building a Hospital Appointment Booking App => day 73
+
+
+Cloud_React_projects
+Course Management System Application => day 73
+
+
+
+You can test a candidate on the following areas to assess their proficiency in Perl:
+
+UNIX Shell command in Perl
+Arithmetic expressions in Perl
+Nested arrays
